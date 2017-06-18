@@ -1,0 +1,23 @@
+body { font-size: 1em; font-family: Garamond, Courier, Times, Arial, Serif; }
+
+p {text-align: left; }
+
+h1, h2, h3, h4 { color:white; background-color:#33BDFF;font-weight: bold; font-size: 120%; }
+
+#name { color: #3a2013; font-size: 200%; font-weight: bold; margin: 5px;}
+
+#address { color: #3a2013; font-size: 75%; }
+
+.header { background-color:white; }
+
+span.date { font-weight: bold; float:right }
+
+span.heading { font-weight: bold; }
+
+li { margin: 1em 0;  }
+
+#photo { float:right; background-color:white; border-style: double; text-align: center; }
+
+img { max-width:180px; height:auto; margin-bottom: 10px; }
+
+nav.class { float:left; }
